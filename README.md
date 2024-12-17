@@ -77,4 +77,4 @@ Open the app on your physical device or emulator using the development build.
 ---
 
 Developer: Muhammet Burak UÇAR  
-Repository Link: [React Native Translate App](https://github.com/mburakucar/react-native-translate-app)
+Repository Link: [React Native AI Translate App](https://github.com/mburakucar/react-native-ai-translate-app)
